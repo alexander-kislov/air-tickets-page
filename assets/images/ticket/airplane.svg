@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg16"
+   version="1.1"
+   viewBox="0 0 139.81552 10.942913"
+   height="10.942913"
+   width="139.81552"
+   sodipodi:docname="airplane.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="2.667721"
+     inkscape:cx="38.531485"
+     inkscape:cy="54.054287"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <path
+       d="m 683,207 v -1 h 96 v 1 z"
+       id="yhaya"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 793.5,209.603 v -1.3 l -5.474,-3.25 v -3.575 c 0,-0.54 -0.458,-0.975 -1.026,-0.975 -0.568,0 -1.026,0.436 -1.026,0.975 v 3.575 l -5.474,3.25 v 1.3 l 5.474,-1.625 v 3.575 l -1.369,0.975 v 0.975 l 2.395,-0.65 2.395,0.65 v -0.975 l -1.369,-0.975 v -3.575 z"
+       id="yhayb"
+       inkscape:connector-curvature="0" />
+  </defs>
+  <g
+     transform="matrix(1.3231621,0,0,1.3268254,-903.71971,-268.58793)"
+     id="g8">
+    <use
+       xlink:href="#yhaya"
+       id="use6"
+       style="fill:#d2d5d6"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     transform="matrix(0,0.84176257,-0.84176257,0,308.59145,-656.99569)"
+     id="g12">
+    <use
+       xlink:href="#yhayb"
+       id="use10"
+       style="fill:#d2d5d6"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>
